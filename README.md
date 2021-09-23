@@ -1,2 +1,2 @@
-# fox
+# The Fox Programming Language
 Сoming soon...
